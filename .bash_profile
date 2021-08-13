@@ -1,1 +1,1 @@
-chsh -s /usr/local/bin/zsh
+chsh -s /usr/bin/zsh
